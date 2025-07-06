@@ -1,0 +1,14 @@
+name: house_price_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - joblib
+  - pip
+  - pip:
+      - gradio
+      - streamlit
