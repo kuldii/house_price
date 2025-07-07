@@ -140,7 +140,7 @@ docker run -p 9001:9001 house-price
 
 ## 🌐 Demo & Credits
 - **Author**: Sandikha Rahardi (Kuldii Project)
-- **Website**: https://hello.kuldiiproject.com/house_price
+- **Website**: https://kuldiiproject.com
 - **Dataset**: [Scikit-learn California Housing](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
 - **UI**: [Gradio](https://gradio.app/)
 - **ML**: [Scikit-learn](https://scikit-learn.org/)
